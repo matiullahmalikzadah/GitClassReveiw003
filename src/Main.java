@@ -4,5 +4,7 @@ public class Main {
 
         System.out.println("Hello i am here");
         System.out.println("how are you ");
+        System.out.println("new jan ");
+        System.out.println("i am from usa ");
     }
 }
