@@ -7,5 +7,7 @@ public class Main {
         System.out.println("new jan ");
         System.out.println("i am from usa ");
         System.out.println("This is Matiullah M");
+        System.out.println("Bushra");
+        System.out.println("Atina");
     }
 }
